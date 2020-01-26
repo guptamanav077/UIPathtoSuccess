@@ -1604,15 +1604,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gupta\\.nuget\\packages\\": {}
+    "C:\\Users\\angel\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "WaterlooWorksScraper",
       "projectName": "WaterlooWorksScraper",
-      "projectPath": "C:\\Users\\gupta\\Downloads\\PricePoint-StarterHacks2020-master1\\PricePoint-StarterHacks2020-master\\WaterlooWorksScraper\\.local",
-      "packagesPath": "C:\\Users\\gupta\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gupta\\Downloads\\PricePoint-StarterHacks2020-master1\\PricePoint-StarterHacks2020-master\\WaterlooWorksScraper\\.local"
+      "projectPath": "C:\\Users\\angel\\Documents\\UiPath\\WaterlooWorksScraper\\.local",
+      "packagesPath": "C:\\Users\\angel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\angel\\Documents\\UiPath\\WaterlooWorksScraper\\.local"
     },
     "frameworks": {
       "net461": {
@@ -1640,5 +1640,14 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU3034",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Extended.Wpf.Toolkit 2.8' from source 'https://api.nuget.org/v3/index.json': This package is signed but not by a trusted signer.",
+      "libraryId": "Extended.Wpf.Toolkit"
+    }
+  ]
 }
